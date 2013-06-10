@@ -1,5 +1,3 @@
-import math
-
 def binary(haystack, needle, min, max):
 	if max < min:
 		return None
